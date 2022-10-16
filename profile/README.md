@@ -4,3 +4,5 @@
   <h1 align="center">CachyOS</h1>
   <p align="center">CachyOS - arch-based GNU/Linux distribution shipped with performance-optimized repositories, kernels, and valuable features.</p>
 </div>
+
+<br />
