@@ -7,5 +7,5 @@
 <br />
 
 ## :rocket: How does CachyOS improve performance?
-We provide an **performance-optimized repositories** with `x86-64-v3`, `x86-64-v4` support, which comes with a notable performance boost.
-The installer will detect if your CPU is compatible with `x86-64-v3`, `x86-64-v4`.
+We provide an **performance-optimized repositories** with `x86-64-v3`support, which comes with a notable performance boost.
+The installer will detect if your CPU is compatible with `x86-64-v3`.
