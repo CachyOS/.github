@@ -7,8 +7,7 @@
 <br />
 
 ## :rocket: How does CachyOS improve performance?
-CachyOS uses a lot of stuff to improve performance in many aspects, here is a list of optimizations leading to performance uplift.
-
+CachyOS implements several optimizations to improve performance across multiple areas.
 ### CachyOS optimizations & tweaks
 - [linux-cachyos](https://github.com/CachyOS/linux-cachyos) - optimized kernel and variants of this kernel.
 - [CachyOS repository](https://github.com/CachyOS/linux-cachyos#cachyos-repositories) - with custom build flags like `x86-64-v3` and kernels only `x86-64-v4`.
