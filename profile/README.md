@@ -15,7 +15,7 @@ CachyOS implements several optimizations to improve performance across multiple 
 - [CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - minor tweaks for the whole system through sysctl, udev rules, handy for NVIDIA graphics cards.
 
 ### Support & community
-- **Discord:** https://discord.gg/qJqj94uFwE
+- **Discord:** https://discord.gg/cachyos-862292009423470592
 - **Telegram:** https://t.me/+zCzPX4cAFjk1MTYy
 - **Matrix:** https://matrix.cachyos.org
 - **Forum:** https://forum.cachyos.org/
