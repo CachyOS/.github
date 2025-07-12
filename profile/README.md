@@ -15,8 +15,11 @@ CachyOS implements several optimizations to improve performance across multiple 
 - [CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - minor tweaks for the whole system through sysctl, udev rules, handy for NVIDIA graphics cards.
 - [proton-cachyos](https://github.com/CachyOS/proton-cachyos) - optimized Proton by CachyOS, Big thanks to [loathingKernel](https://github.com/loathingKernel), for applying their own nerd magic.
 
-### Support & community
-- **Discord:** https://discord.gg/cachyos-862292009423470592
-- **Telegram:** https://t.me/+zCzPX4cAFjk1MTYy
-- **Matrix:** https://matrix.cachyos.org
-- **Forum:** https://forum.cachyos.org/
+### 🤝 Community & Support
+
+Have a question or want to get involved? Join our community!
+
+* **[Forum](https://forum.cachyos.org/):** The best place for detailed support questions and discussions.
+* **[Discord](https://discord.gg/cachyos-862292009423470592):** Perfect for quick questions and live chat with the community.
+* **[Telegram](https://t.me/+zCzPX4cAFjk1MTYy):** Our Telegram group for community interaction.
+* **[Matrix](https://matrix.cachyos.org):** A decentralized, open-source alternative for communication.
