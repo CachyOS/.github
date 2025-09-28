@@ -21,5 +21,3 @@ Have a question or want to get involved? Join our community!
 
 * **[Forum](https://forum.cachyos.org/):** The best place for detailed support questions and discussions.
 * **[Discord](https://discord.gg/cachyos-862292009423470592):** Perfect for quick questions and live chat with the community.
-* **[Telegram](https://t.me/+zCzPX4cAFjk1MTYy):** Our Telegram group for community interaction.
-* **[Matrix](https://matrix.cachyos.org):** A decentralized, open-source alternative for communication.
